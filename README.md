@@ -25,7 +25,7 @@ Puedes ver un ejemplo de esta plantilla en acción [aquí](https://ignacix.githu
 
 ## Contribuciones
 
-Si encuentras algún problema o tienes sugerencias de mejora, no dudes en abrir un issue o enviar un pull request. ¡Toda contribución es bienvenida!
+Si encontras algún problema o tenes sugerencias de mejora, no dudes en abrir un issue / enviar un pull request o contacatarme por alguna red social. ¡Toda contribución es bienvenida🐱!
 
 ## Autor
 

@@ -21,7 +21,7 @@ Esta es una plantilla minimalista para crear páginas web de forma rápida y sen
 
 ## Ejemplo
 
-Puedes ver un ejemplo de esta plantilla en acción [aquí](#).
+Puedes ver un ejemplo de esta plantilla en acción [aquí](https://ignacix.github.io/Mockup/).
 
 ## Contribuciones
 
